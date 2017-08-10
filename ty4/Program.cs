@@ -10,7 +10,7 @@ namespace ty4
     {
         static void Main(string[] args)
         {
-
+            //just shim
             Console.WriteLine("shim");
             Console.ReadKey();
         }
